@@ -1,0 +1,1 @@
+Copy folder "DigitShieldBluino" into your libraries folder of Arduino IDE ./Arduino/libraries/
